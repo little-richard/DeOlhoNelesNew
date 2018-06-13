@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4caf50</color>
+    <color name="colorPrimaryDark">#4caf50</color>
+    <color name="colorAccent">#ffee58</color>
+    <color name="colorbgcard">#97c2c2c2</color>
+    <color name="colorline">#c7a6a6a6</color>
+    <color name="white">#ffffff</color>
+    <color name="graph1">#4caf50</color>
+    <color name="graph2">#0288d1</color>
+    <color name="graph3">#512da8</color>
+    <color name="graph4">#00897b</color>
+    <color name="graph5">#ff6f00</color>
+    <color name="graph6">#546e7a</color>
+    <color name="click">#777878</color>
+</resources>

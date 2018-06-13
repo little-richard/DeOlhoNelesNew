@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">DeOlhoNelesNew</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_deputado">DeputadoActivity</string>
+    <string name="title_dadosG">Informações Gerais</string>
+    <string name="title_graph">Por ano</string>
+    <string name="title_contato">Contato</string>
+    <string name="posicao1">1º</string>
+    <string name="posicao5">5º</string>
+    <string name="posicao4">4º</string>
+    <string name="posicao3">3º</string>
+    <string name="posicao2">2º</string>
+    <string name="ranking">Ranking de gastos</string>
+    <string name="portipo">Por categoria</string>
+    <string name="vermais">Ver mais</string>
+    <string name="title_activity_searchable">SearchableActivity</string>
+    <string name="searchable">Pesquisar</string>
+    <string name="membrostitle">Membros</string>
+</resources>

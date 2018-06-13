@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "236521294504",
+    "firebase_url": "https://deolhoneles-5d856.firebaseio.com",
+    "project_id": "deolhoneles-5d856",
+    "storage_bucket": "deolhoneles-5d856.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236521294504:android:d188bce2f0d51ca4",
+        "android_client_info": {
+          "package_name": "com.example.ricardomendes.deolhonelesnew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236521294504-s21pghoj75a317e4li5m8bes23qdck9t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ricardomendes.deolhonelesnew",
+            "certificate_hash": "e92db96966234a3332b0ee31820be620c333a2e8"
+          }
+        },
+        {
+          "client_id": "236521294504-80j2hsl85g4siovvnb2403qrbc9gr3kq.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "236521294504-80j2hsl85g4siovvnb2403qrbc9gr3kq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXhXNPJkYeveTl-cMZ8OB4-8r6xRNWhe0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236521294504-80j2hsl85g4siovvnb2403qrbc9gr3kq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236521294504:android:5d4d700833c41f5c",
+        "android_client_info": {
+          "package_name": "com.example.ricardomendes.upfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236521294504-nf4eqmmk5ar2tkv00lroqsvab8a6rvm2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ricardomendes.upfirebase",
+            "certificate_hash": "e92db96966234a3332b0ee31820be620c333a2e8"
+          }
+        },
+        {
+          "client_id": "236521294504-80j2hsl85g4siovvnb2403qrbc9gr3kq.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "236521294504-80j2hsl85g4siovvnb2403qrbc9gr3kq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXhXNPJkYeveTl-cMZ8OB4-8r6xRNWhe0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236521294504-80j2hsl85g4siovvnb2403qrbc9gr3kq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
